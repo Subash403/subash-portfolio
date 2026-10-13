@@ -1,0 +1,83 @@
+export const achievements = [
+  {
+    award: '1st Prize',
+    title: 'Mystery Layer — ML Model Prediction',
+    institution: 'Saveetha University',
+    category: 'MACHINE LEARNING COMPETITION',
+    description: 'Secured first place in machine learning prediction challenge, evaluating algorithmic classification speed and diagnostic accuracy.',
+    badge: '1ST PLACE',
+    accent: 'violet',
+  },
+  {
+    award: '1st Prize',
+    title: 'Triwizard Challenge — AI/ML Coding Contest',
+    institution: "St. Joseph's College of Engineering",
+    category: 'AI / ML HACKATHON & CODING',
+    description: 'First prize in national-level AI/ML coding contest, developing algorithmic workflows under rigorous evaluation.',
+    badge: '1ST PLACE',
+    accent: 'blue',
+  },
+  {
+    award: '1st Prize',
+    title: 'Technical Quiz Competition',
+    institution: 'Periyar Maniammai University, Thanjavur',
+    category: 'TECHNICAL KNOWLEDGE & CS',
+    description: 'Achieved first position in university-level technical quiz covering algorithms, operating systems, and computer science concepts.',
+    badge: '1ST PLACE',
+    accent: 'violet',
+  },
+  {
+    award: '1st Prize',
+    title: 'Tech Quiz',
+    institution: 'AVC College of Engineering',
+    category: 'TECHNICAL QUIZ',
+    description: 'Awarded first prize for technical proficiency, algorithmic problem solving, and fast-paced reasoning.',
+    badge: '1ST PLACE',
+    accent: 'blue',
+  },
+  {
+    award: '2nd Prize',
+    title: 'Code Debugging Contest',
+    institution: 'AVC College of Engineering',
+    category: 'SOFTWARE DEBUGGING',
+    description: 'Won second place diagnosing edge-case bugs, syntax errors, and runtime defects under tight timed constraints.',
+    badge: '2ND PLACE',
+    accent: 'violet',
+  },
+  {
+    award: '2nd Prize',
+    title: 'Air Crash Investigation (Technical Analysis)',
+    institution: 'DSCET',
+    category: 'ANALYTICAL INVESTIGATION',
+    description: 'Recognized for structured root-cause analysis, system failure telemetry evaluation, and technical presentation.',
+    badge: '2ND PLACE',
+    accent: 'blue',
+  },
+  {
+    award: 'Runner-up',
+    title: 'Technical Quiz',
+    institution: 'Tamil University, Thanjavur',
+    category: 'ACADEMIC COMPETITION',
+    description: 'Attained runner-up distinction in regional technical knowledge and software principles symposium.',
+    badge: 'RUNNER UP',
+    accent: 'violet',
+  },
+]
+
+export const technicalPresentations = [
+  {
+    venue: 'IIT Madras',
+    type: 'Technical Paper Presentation',
+    description: 'Presented technical research paper at premier national institute technical symposium.',
+  },
+  {
+    venue: 'Tagore Engineering College',
+    type: 'Paper Presentation',
+    description: 'Delivered research paper presentation on computational and engineering innovations.',
+  },
+  {
+    venue: 'Vels College, Avadi',
+    type: 'Paper Presentation',
+    description: 'Delivered technical paper presentation detailing algorithmic workflows and software methodologies.',
+  },
+]

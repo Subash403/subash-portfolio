@@ -1,0 +1,46 @@
+export const experiences = [
+  {
+    role: 'Freelance Software & Web Developer',
+    organization: 'Independent / Freelance',
+    period: '2025 – Present',
+    badge: 'FREELANCE & CLIENT DELIVERY',
+    tagline: 'End-to-end development, testing, client consultation, and practical software delivery',
+    accomplishments: [
+      'Built and delivered 15+ software projects and 2 production websites for students, businesses, and independent clients.',
+      'Managed full software lifecycles autonomously from requirement gathering and UI/UX prototyping through implementation, rigorous testing, documentation, and handover.',
+      'Executed paid client deliverables spanning ₹2,500 to ₹20,000 budgets, adhering strictly to delivery deadlines and quality benchmarks.',
+      'Specialized in Python application logic, database integrations, responsive user interfaces, and automated business workflows.',
+    ],
+    skills: ['Python', 'Web Development', 'Next.js', 'Tailwind CSS', 'SQL Databases', 'API Integration', 'Client Communication'],
+    accent: 'violet',
+  },
+  {
+    role: 'ML Developer Intern',
+    organization: 'Nitroware Technologies',
+    period: 'July 2025',
+    badge: 'MACHINE LEARNING INTERNSHIP',
+    tagline: 'Applied ML experimentation, algorithmic benchmarking, and software failure prediction',
+    accomplishments: [
+      'Contributed directly to a full-stack software-failure prediction web application designed to anticipate system defects.',
+      'Conducted extensive ML experimentation with Linear Regression, Logistic Regression, Naive Bayes, Decision Trees, Random Forest, SVM, Gradient Boosting, and XGBoost.',
+      'Constructed synthetic datasets for model stress-testing, exploratory data analysis, and baseline performance comparisons.',
+      'Actively troubleshot and refined frontend and backend application layers, resolving 100+ development and integration bugs documented during testing.',
+    ],
+    skills: ['Python', 'Scikit-Learn', 'XGBoost', 'Random Forest', 'SVM', 'Synthetic Data Testing', 'Bug Resolution'],
+    accent: 'blue',
+  },
+  {
+    role: 'Python Developer Intern',
+    organization: 'Pantech AI',
+    period: 'August 2024 – September 2024',
+    badge: 'DEVELOPMENT INTERNSHIP',
+    tagline: 'Core Python architecture, algorithm implementation, and software engineering practices',
+    accomplishments: [
+      'Completed an intensive Python-focused internship strengthening clean coding principles, data structures, and algorithmic workflows.',
+      'Developed and tested modular Python programs, scripting utilities, and foundational applications as part of internship activities.',
+      'Gained structured hands-on experience in software debugging, Git version control, and problem decomposition.',
+    ],
+    skills: ['Python', 'Data Structures', 'Scripting', 'Algorithms', 'Modular Code', 'Git'],
+    accent: 'violet',
+  },
+]
